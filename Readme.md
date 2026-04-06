@@ -88,8 +88,8 @@ feature_importance.csv → Key influencing features
 
 🚀 How to Run the Project
 1. Clone the repository
-git clone <your-repo-link>
-cd <project-folder>
+git clone (https://github.com/Loner8118/IPL-Prediction)
+cd Prediction
 
 2. Install dependencies
 pip install -r requirements.txt
